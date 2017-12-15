@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/account"
+        id="@+id/tab1"
+        title="Favorites"/>
+    <tab
+        icon="@drawable/atm"
+        id="@+id/tab2"
+        title="Nearby"/>
+    <tab
+        icon="@drawable/clock"
+        id="@+id/tab3"
+        title="Friends"/>
+    <tab
+        icon="@drawable/clock"
+        id="@+id/tab4"
+        title="icc"/>
+    <tab
+        icon="@drawable/clock"
+        id="@+id/tab5"
+        title="rad"/>
+    <tab
+        icon="@drawable/clock"
+        id="@+id/tab6"
+        title="red"/>
+    <tab
+        icon="@drawable/account"
+        id="@+id/tab7"
+        title="ggg"/>
+    <tab
+        icon="@drawable/account"
+        id="@+id/tab8"
+        title="aaa"/>
+    <tab
+        icon="@drawable/account"
+        id="@+id/tab9"
+        title="bbb"/>
+</tabs>
